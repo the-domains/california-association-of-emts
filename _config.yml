@@ -1,0 +1,28 @@
+name: California Association of EMTs
+favicon: null
+layout_spectrum: 0.5113284476101398
+typography_spectrum: 0.5187295677606016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7594329849816859
+  lightness: 0.20777734252624214
+  saturation: 0.6773280631750822
+  rhythmicContrast: 0.7699136345181614
+purpose: []
